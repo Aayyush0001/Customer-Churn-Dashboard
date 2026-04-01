@@ -116,7 +116,7 @@ The dashboard provides a comprehensive view of customer churn through multiple K
 ```
 📦 Customer-Churn-Analysis
  ┣ 📄 README.md
- ┣ 📊 Telco_Churn_Data.xlsx
+ ┣ 📊 Customer_Churn_Final_Report.pbit
  ┣ 🖼️ Analysis Overview.png
  ┗ 📁 Dashboard Files
 ```
